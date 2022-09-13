@@ -2,4 +2,4 @@
 Bootstrap, AOS - Animate on scroll library
 
 
-live : https://mahadihasancoder.github.io/gymso_fitness/
+live : https://mahadidev7.github.io/gymso_fitness/
